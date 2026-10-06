@@ -1,2 +1,2 @@
 # supply-chain-case
-Supply chain &amp; operations case studies in apparel
+Supply chain &amp; operations case in apparel
